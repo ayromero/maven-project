@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Wed May 04 11:29:38 CEST 2016:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0154-7b19-f172-00000adeb420 
+Wed May 04 15:00:44 CEST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0154-7bdb-360b-00000b4f7aa0 
 on database directory memory:C:\Proyectos\CursoMule\Advanced\maven-project\muleEmbeddedDB with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
 Loaded from file:/C:/Users/ay.romero/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
